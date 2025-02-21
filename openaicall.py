@@ -1,19 +1,19 @@
 import os
 import json
 import asyncio
-import openai
+import openaicall
 import pandas as pd
 
 # Configurar la API key de OpenAI desde la variable de entorno
-openai.api_key = os.environ.get("OPENAI_API_KEY")
+openaicall.api_key = os.environ.get("OPENAI_API_KEY")
 
 async def obtener_respuesta(prompt: str) -> str:
     """
-    Función asíncrona que llama a la API de OpenAI con un prompt dado.
+    Función async que llama a la API con un prompt.
     Si hay error, retorna el mensaje de error.
     """
     try:
-        response = await openai.Completion.acreate(
+        response = await openaicall.Completion.acreate(
             model="text-davinci-003",
             prompt=prompt,
             max_tokens=100,
