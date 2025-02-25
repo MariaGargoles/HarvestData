@@ -1,0 +1,140 @@
+[
+    {
+        "id": 5,
+        "nombre_comercial": "caraBdanza",
+        "url_eventos": "https://www.carabdanza.com",
+        "fechas_y_lugares": "–\n–\n–\n–\n–\n–"
+    },
+    {
+        "id": 25,
+        "nombre_comercial": "Compañía Antonio Gades",
+        "url_eventos": "https://antoniogades.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 29,
+        "nombre_comercial": "Ananda Dansa",
+        "url_eventos": "https://anandadansa.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 30,
+        "nombre_comercial": "Cienfuegos Danza",
+        "url_eventos": "http://www.cienfuegosdanza.com/",
+        "fechas_y_lugares": "Error al procesar http://www.cienfuegosdanza.com/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+        "id": 31,
+        "nombre_comercial": "Anabel Veloso",
+        "url_eventos": "https://www.anabelveloso.com/es/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 34,
+        "nombre_comercial": "Compañía I+D Danza",
+        "url_eventos": "https://anabeatrizdanza.wixsite.com/sombra/inicio",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 41,
+        "nombre_comercial": "Celeste Ayus",
+        "url_eventos": "https://celesteayus.wordpress.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 47,
+        "nombre_comercial": "Centro Coreográfico de La Gomera",
+        "url_eventos": "http://www.centrocoreograficoislagomera.com/",
+        "fechas_y_lugares": "Error al procesar http://www.centrocoreograficoislagomera.com/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+        "id": 65,
+        "nombre_comercial": "Baal",
+        "url_eventos": "https://baaldansa.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 81,
+        "nombre_comercial": "Cía. David Segura",
+        "url_eventos": "http://www.bydavidsegura.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 84,
+        "nombre_comercial": "Aracaladanza Compañía",
+        "url_eventos": "http://www.aracaladanza.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 85,
+        "nombre_comercial": "Compañía Antonio Ruz",
+        "url_eventos": "https://www.antonioruz.com/es",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 91,
+        "nombre_comercial": "Cía. Marco Flores. Flamenco Danza",
+        "url_eventos": "http://ciamarcoflores.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 93,
+        "nombre_comercial": "Cía. Aïda Colmenero Dïaz",
+        "url_eventos": "https://www.aidacolmenerodiaz.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 94,
+        "nombre_comercial": "Compañía Manuel Liñán",
+        "url_eventos": "https://manuellinan.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 95,
+        "nombre_comercial": "Begoña Quiñones y Verónica Garzón",
+        "url_eventos": "https://beqveg.wordpress.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 97,
+        "nombre_comercial": "Circle of Trust",
+        "url_eventos": "https://www.circleoftrustcrew.com/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 116,
+        "nombre_comercial": "Cía. Elías Aguirre",
+        "url_eventos": "http://www.eliasaguirre.es/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 118,
+        "nombre_comercial": "Carlota Mantecón",
+        "url_eventos": "http://carlotamantecon.es/es/",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 120,
+        "nombre_comercial": "Compañía Deloflamenco",
+        "url_eventos": "http://www.deloflamenco.com",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 131,
+        "nombre_comercial": "Cía. Exire",
+        "url_eventos": "https://www.exirecia.com/",
+        "fechas_y_lugares": "Error al procesar https://www.exirecia.com/: HTTPSConnectionPool(host='www.exirecia.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001DE253AB470>: Failed to resolve 'www.exirecia.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "id": 133,
+        "nombre_comercial": "Búho Teatro",
+        "url_eventos": "http://www.buhoteatro.es/es/index.php",
+        "fechas_y_lugares": ""
+    },
+    {
+        "id": 136,
+        "nombre_comercial": "A la Sombrita",
+        "url_eventos": "https://alasombrita.com/",
+        "fechas_y_lugares": ""
+    }
+]
