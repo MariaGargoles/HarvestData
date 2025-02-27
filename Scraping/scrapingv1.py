@@ -28,7 +28,7 @@ for p in p_tags:
         
         if linea.strip() == "2025":
             continue
-       
+ #Si la línea comienza con "–", se considera válida y se guarda en fechas_y_lugares.      
         if linea.strip().startswith("–"):
             fechas_y_lugares.append(linea.strip())
 

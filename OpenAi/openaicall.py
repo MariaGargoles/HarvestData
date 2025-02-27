@@ -46,7 +46,7 @@ async def main():
         prompts_info.append((nombre, prompt))
         tasks.append(asyncio.create_task(obtener_respuesta(prompt)))
     
-    
+    #Ejecuta las tareas asincronas de forma simultanea en lugar de 1 a 1. 
     respuestas = await asyncio.gather(*tasks)
     
     
@@ -60,10 +60,10 @@ async def main():
             "respuesta": respuesta
         })
     
-    #Pandas
+    #Lo convertimos en DataFrame para su posterior gestion.
     df_resultados = pd.DataFrame(resultados)
     
-    
+ #Impre un Json con los resultados   
     json_result = df_resultados.to_json(orient="records", indent=4)
     with open("resultados.json", "w", encoding="utf-8") as f:
         f.write(json_result)
