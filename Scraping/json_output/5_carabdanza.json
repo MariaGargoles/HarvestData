@@ -1,0 +1,46 @@
+{
+    "compañias": [
+        {
+            "id": "5",
+            "nombre compañia": "CaraBdanza",
+            "nombre de la obra": "Pasado, Presente, Futuro. X – Aniversario",
+            "fecha": "02/01/2025",
+            "lugar": "Albacete, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "CaraBdanza",
+            "nombre de la obra": "Pasado, Presente, Futuro. X – Aniversario",
+            "fecha": "07/02/2025",
+            "lugar": "Palencia, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "CaraBdanza",
+            "nombre de la obra": "Four Seasons",
+            "fecha": "11/12/2024",
+            "lugar": "Jerez de la Frontera, Cádiz, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "CaraBdanza",
+            "nombre de la obra": "Four Seasons",
+            "fecha": "13/12/2024",
+            "lugar": "Sant Joan d'Alacant, Alicante, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "CaraBdanza",
+            "nombre de la obra": "El Cascanueces",
+            "fecha": "27/12/2024",
+            "lugar": "San Fernando de Henares, Madrid, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "CaraBdanza",
+            "nombre de la obra": "Carmencita y el Lobo",
+            "fecha": "06/12/2024",
+            "lugar": "Aranjuez, Madrid, España"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "compañias": [
+        {
+            "id": "50",
+            "nombre compañia": "Colectivo El Compromiso",
+            "nombre de la obra": "MeComprometo",
+            "fecha": "",
+            "lugar": ""
+        },
+        {
+            "id": "50",
+            "nombre compañia": "Colectivo El Compromiso",
+            "nombre de la obra": "7 Cuerpos",
+            "fecha": "",
+            "lugar": ""
+        },
+        {
+            "id": "50",
+            "nombre compañia": "",
+            "nombre de la obra": "Cierre festival FICMEC",
+            "fecha": "06/2017",
+            "lugar": ""
+        }
+    ]
+}
