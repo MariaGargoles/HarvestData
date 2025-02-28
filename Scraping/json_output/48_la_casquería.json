@@ -1,0 +1,32 @@
+{
+    "compañias": [
+        {
+            "id": "48",
+            "nombre compañia": "La Casquería",
+            "nombre de la obra": "En la habitación",
+            "fecha": "15/08/2015",
+            "lugar": "Martos, Jaén"
+        },
+        {
+            "id": "48",
+            "nombre compañia": "La Casquería",
+            "nombre de la obra": "En la habitación",
+            "fecha": "08/05/2015",
+            "lugar": "Marbella, Málaga"
+        },
+        {
+            "id": "48",
+            "nombre compañia": "La Casquería",
+            "nombre de la obra": "Taller de danza",
+            "fecha": "03/05/2015",
+            "lugar": "Marbella, Málaga"
+        },
+        {
+            "id": "48",
+            "nombre compañia": "La Casquería",
+            "nombre de la obra": "Taller de danza",
+            "fecha": "10/05/2015",
+            "lugar": "Marbella, Málaga"
+        }
+    ]
+}
