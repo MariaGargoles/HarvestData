@@ -1,0 +1,32 @@
+{
+    "compañias": [
+        {
+            "id": "39",
+            "nombre compañia": "Dani Pannullo Dancetheatre Co.",
+            "nombre de la obra": "Expulsión! Dance Riot",
+            "fecha": "29/04/2022",
+            "lugar": "Parla, España"
+        },
+        {
+            "id": "39",
+            "nombre compañia": "Dani Pannullo Dancetheatre Co.",
+            "nombre de la obra": "Expulsión! Dance Riot",
+            "fecha": "30/04/2022",
+            "lugar": "Arganda del Rey, España"
+        },
+        {
+            "id": "39",
+            "nombre compañia": "Dani Pannullo Dancetheatre Co.",
+            "nombre de la obra": "Expulsión! Dance Riot",
+            "fecha": "14/05/2022",
+            "lugar": "Fuenlabrada, España"
+        },
+        {
+            "id": "39",
+            "nombre compañia": "Dani Pannullo Dancetheatre Co.",
+            "nombre de la obra": "Expulsión! Dance Riot",
+            "fecha": "28/05/2022",
+            "lugar": "Majadahonda, España"
+        }
+    ]
+}

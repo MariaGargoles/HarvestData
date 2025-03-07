@@ -1,0 +1,18 @@
+{
+    "compañias": [
+        {
+            "id": "27",
+            "nombre compañia": "La Intrusa",
+            "nombre de la obra": "",
+            "fecha": "05/06/2021",
+            "lugar": "Tenerife, España"
+        },
+        {
+            "id": "27",
+            "nombre compañia": "La Intrusa",
+            "nombre de la obra": "",
+            "fecha": "19/11/2021",
+            "lugar": "Santiago de Compostela, España"
+        }
+    ]
+}

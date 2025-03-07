@@ -1,0 +1,18 @@
+{
+    "compañias": [
+        {
+            "id": "66",
+            "nombre compañia": "TEATRO FÍSICO",
+            "nombre de la obra": "¿Por qué se repiten las cosas?",
+            "fecha": "",
+            "lugar": "Casa de Lago, México"
+        },
+        {
+            "id": "66",
+            "nombre compañia": "TEATRO FÍSICO",
+            "nombre de la obra": "El Lago de los Cisnes",
+            "fecha": "",
+            "lugar": "Teatro Nacional de República Dominicana"
+        }
+    ]
+}

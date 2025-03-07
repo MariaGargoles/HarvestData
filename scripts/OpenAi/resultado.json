@@ -1,0 +1,5 @@
+{
+    "nombre": "Carabdanza",
+    "prompt": "Proporciona una lista de todas las funciones actuales y próximas de la compañía Carabdanza, incluyendo el nombre del espectáculo, la fecha y la ubicación. Devuelve la respuesta estrictamente en formato JSON con la siguiente estructura: { 'espectaculos': [ { 'nombre': 'Nombre del espectáculo', 'fecha': 'DD/MM/AAAA', 'ubicacion': 'Lugar' } ] }. Si no hay información disponible sobre eventos, responde con un JSON vacío: { 'espectaculos': [] }.",
+    "respuesta": "Lo siento, pero no tengo acceso a información en tiempo real sobre eventos o espectáculos de Carabdanza. Te recomiendo consultar directamente en la página web de la compañía o en sus redes sociales para obtener la información más actualizada sobre sus funciones. Aquí está el JSON vacío como solicitaste:\n\n```json\n{ \"espectaculos\": [] }\n```"
+}

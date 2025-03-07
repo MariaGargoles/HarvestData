@@ -1,0 +1,249 @@
+{
+  "compañias": [
+    {
+      "id": 4,
+      "nombre": "SIL Producciones Artes en movimiento",
+      "url": "https://www.silproducciones.es/"
+    },
+    {
+      "id": 5,
+      "nombre": "Carabdanza",
+      "url": "https://carabdanza.com/agenda/"
+    },
+    {
+      "id": 6,
+      "nombre": "Compañia Nomada",
+      "url": "http://elteatrovictoria.com/cia-nomada/"
+    },
+    {
+      "id": 7,
+      "nombre": "Javier Cuevas",
+      "url": "https://laboratorioartesvivas.org/javiercuevas/"
+    },
+    {
+      "id": 8,
+      "nombre": "Iberica Danza",
+      "url": "https://www.ibericadedanza.com/iberica-de-danza-calendario.html"
+    },
+    {
+      "id": 9,
+      "nombre": "Fernando López",
+      "url": "http://lrparrafernando.com"
+    },
+    {
+      "id": 14,
+      "nombre": "Fani Benages",
+      "url": "http://fanibenages.com/"
+    },
+    {
+      "id": 20,
+      "nombre": "Carmen Fumero Cía",
+      "url": "https://dancefromspain.feced.org/carmen-fumero-y-miguel-ballabriga/"
+    },
+    {
+      "id": 21,
+      "nombre": "Marcat Dance",
+      "url": "https://marcatdance.com/calendar/"
+    },
+    {
+      "id": 22,
+      "nombre": "Dos Proposiciones Danza",
+      "url": "https://www.dosproposiciones.es/agenda-dos-proposiciones/"
+    },
+    {
+      "id": 23,
+      "nombre": "Larumbe Danza",
+      "url": "https://larumbedanza.com/calendario/"
+    },
+    {
+      "id": 24,
+      "nombre": "EnClaveDanza",
+      "url": "http://enclavedanza.es/)"
+    },
+    {
+      "id": 25,
+      "nombre": "Compañía Antonio Gades",
+      "url": "https://antoniogades.com/"
+    },
+    {
+      "id": 26,
+      "nombre": "Nova Galega",
+      "url": "https://novagalegadedanza.com/la-compania/"
+    },
+    {
+      "id": 27,
+      "nombre": "La Intrusa",
+      "url": "https://dam029.wixsite.com/pruebaweb/news"
+    },
+    {
+      "id": 28,
+      "nombre": "Kor'sia",
+      "url": "https://www.kor-sia.com/past-tour"
+    },
+    {
+      "id": 29,
+      "nombre": "Ananda Dansa",
+      "url": "https://anandadansa.com/"
+    },
+    {
+      "id": 30,
+      "nombre": "Cienfuegos Danza",
+      "url": "https://www.cienfuegosdanza.com/espectaculos-en-gira/"
+    },
+    {
+      "id": 31,
+      "nombre": "Anabel Veloso",
+      "url": "https://www.anabelveloso.com/es/"
+    },
+    {
+      "id": 34,
+      "nombre": "Compañía I+D Danza",
+      "url": "https://anabeatrizdanza.wixsite.com"
+    },
+    {
+      "id": 35,
+      "nombre": "Entredanza",
+      "url": "http://ballet-entredanza.blogspot.com/"
+    },
+    {
+      "id": 36,
+      "nombre": "Isabel Andreu Mora",
+      "url": "https://www.isabelandreumora.com/"
+    },
+    {
+      "id": 37,
+      "nombre": "Paula Quintana",
+      "url": "https://paulaquintana.com/agenda/"
+    },
+    {
+      "id": 38,
+      "nombre": "Yurena Ruiz",
+      "url": "https://danzasomatica.com/yurena/"
+    },
+    {
+      "id": 39,
+      "nombre": "Dani Pannullo Dancetheatre Co.",
+      "url": "https://www.danipannullo.com/agenda.html"
+    },
+    {
+      "id": 40,
+      "nombre": "Carmen Macías",
+      "url": "http://dancefromspain.feced.org/carmen-macias/"
+    },
+    {
+      "id": 41,
+      "nombre": "Celeste Ayus",
+      "url": "https://celesteayus.wordpress.com/"
+    },
+    {
+      "id": 42,
+      "nombre": "Compañía de Danza Fernando Hurtado",
+      "url": "https://compañiafernandohurtado.dance/"
+    },
+    {
+      "id": 43,
+      "nombre": "Cía. de Danza María Mora",
+      "url": "https://www.danzamariamora.com"
+    },
+    {
+      "id": 45,
+      "nombre": "Javier Martín",
+      "url": "https://www.javiermartin.gal/artesdelmovimiento/javiermartin.html"
+    },
+    {
+      "id": 46,
+      "nombre": "Cía. Daniel Morales",
+      "url": "https://dancefromspain.feced.org/daniel-morales/"
+    },
+    {
+      "id": 47,
+      "nombre": "Centro Coreográfico de La Gomera",
+      "url": "https://centrocoreograficoislagomera.com/programacion-anual/"
+    },
+    {
+      "id": 48,
+      "nombre": "La Casquería",
+      "url": "https://la-casqueria5.webnode.es/agenda/"
+    },
+    {
+      "id": 49,
+      "nombre": "Marco Vargas y Chloé Brûlé",
+      "url": "https://www.marcovargas-chloebrule.net/agenda-touring/"
+    },
+    {
+      "id": 50,
+      "nombre": "Cristina Hernández Cruz",
+      "url": "http://dancefromspain.feced.org/cristina-hernandez-cruz/"
+    },
+    {
+      "id": 51,
+      "nombre": "El Jablero",
+      "url": "https://dancefromspain.feced.org/el-jablero/"
+    },
+    {
+      "id": 52,
+      "nombre": "Cía. Flamencuría Obdulia Bustos",
+      "url": "https://obduliabustos.com/"
+    },
+    {
+      "id": 53,
+      "nombre": "Natalia Medina Compañía de Danza",
+      "url": "http://quetalestas.es/"
+    },
+    {
+      "id": 54,
+      "nombre": "Reinier Alfonso",
+      "url": "/"
+    },
+    {
+      "id": 57,
+      "nombre": "Paloma.pieldEarenA",
+      "url": "http://palomapieldearena.es/es/eventos/"
+    },
+    {
+      "id": 58,
+      "nombre": "Lucía Vázquez Madrid",
+      "url": "https://luciavazquezmadrid.com/index.php/news"
+    },
+    {
+      "id": 60,
+      "nombre": "Hermanas Gestring",
+      "url": "https://www.hermanasgestring.com/"
+    },
+    {
+      "id": 61,
+      "nombre": "Marina Miguélez - Dance Craft",
+      "url": "https://www.marinamiguelez.com/agenda-1"
+    },
+    {
+      "id": 62,
+      "nombre": "María M. Cabeza de Vaca",
+      "url": "/"
+    },
+    {
+      "id": 65,
+      "nombre": "Baal",
+      "url": "https://baal.cat/calendar/list/"
+    },
+    {
+      "id": 66,
+      "nombre": "TEATRO FÍSICO",
+      "url": "http://coreografo.ikergomez.es/"
+    },
+    {
+      "id": 67,
+      "nombre": "Provisional Danza",
+      "url": "https://www.provisionaldanza.com/performances(pide check)"
+    },
+    {
+      "id": 68,
+      "nombre": "Losdedae",
+      "url": "http://www.losdedae.com/index.html"
+    },
+    {
+      "id": 69,
+      "nombre": "Mopa",
+      "url": "https://soyunamopa.jimdosite.com/"
+    }
+  ]
+}

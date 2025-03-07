@@ -1,0 +1,32 @@
+{
+    "compañias": [
+        {
+            "id": "35",
+            "nombre compañia": "Entredanza",
+            "nombre de la obra": "Danzas Contadas y Cuentos Danzados",
+            "fecha": "22/04/2017",
+            "lugar": "Auditorio de Tacoronte, Tenerife"
+        },
+        {
+            "id": "35",
+            "nombre compañia": "Entredanza",
+            "nombre de la obra": "Danzas Contadas y Cuentos Danzados",
+            "fecha": "23/04/2017",
+            "lugar": "Centro Cultural de Adeje, Tenerife"
+        },
+        {
+            "id": "35",
+            "nombre compañia": "Entredanza",
+            "nombre de la obra": "Danzas Contadas y Cuentos Danzados",
+            "fecha": "27/04/2017",
+            "lugar": "Cine-Teatro Municipal de Santa Úrsula, Tenerife"
+        },
+        {
+            "id": "35",
+            "nombre compañia": "Entredanza",
+            "nombre de la obra": "Danzas Contadas y Cuentos Danzados",
+            "fecha": "29/04/2017",
+            "lugar": "Casa de la Juventud El Chorrillo de El Rosario, Tenerife"
+        }
+    ]
+}
