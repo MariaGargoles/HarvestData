@@ -36,6 +36,7 @@ def process_all_companies(json_file):
 
             # Insertar en PostgreSQL
             insert_json_to_postgres(filename)
+            print("✅ Eventos guardados en PostgreSQL")
 
 if __name__ == "__main__":
     process_all_companies("data/compañias.json")
