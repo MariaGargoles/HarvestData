@@ -1,0 +1,60 @@
+{
+    "compañias": [
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "02/01/2025",
+            "lugar": "Albacete, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "07/02/2025",
+            "lugar": "Palencia, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "14/03/2025",
+            "lugar": "Peal de Becerro, Jaen, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "12/04/2025",
+            "lugar": "Navalcarnero, Madrid, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "26/04/2025",
+            "lugar": "Bargas, Toledo, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "29/04/2025",
+            "lugar": "Alcorcón, Madrid, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "09/05/2025",
+            "lugar": "Valdepeñas, Ciudad Real, España"
+        },
+        {
+            "id": "5",
+            "nombre compañia": "Carabdanza",
+            "nombre de la obra": "Pasado Presente Futuro",
+            "fecha": "14/06/2025",
+            "lugar": "La Cabrera, Madrid, España"
+        }
+    ]
+}

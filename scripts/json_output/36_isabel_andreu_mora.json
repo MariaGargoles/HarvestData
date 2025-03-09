@@ -1,0 +1,32 @@
+{
+    "compañias": [
+        {
+            "id": "36",
+            "nombre compañia": "Isabel Andreu Mora",
+            "nombre de la obra": "Otorgar",
+            "fecha": "",
+            "lugar": "Jerez de la Frontera, España"
+        },
+        {
+            "id": "36",
+            "nombre compañia": "Isabel Andreu Mora",
+            "nombre de la obra": "EX NIHILO (Nihilo)",
+            "fecha": "",
+            "lugar": "Santa Cruz de Tenerife, España"
+        },
+        {
+            "id": "36",
+            "nombre compañia": "Isabel Andreu Mora",
+            "nombre de la obra": "aire",
+            "fecha": "",
+            "lugar": "Santa Cruz de Tenerife, España"
+        },
+        {
+            "id": "36",
+            "nombre compañia": "Isabel Andreu Mora",
+            "nombre de la obra": "Ego Forma",
+            "fecha": "",
+            "lugar": "Santa Cruz de Tenerife, España"
+        }
+    ]
+}

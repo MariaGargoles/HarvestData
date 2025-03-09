@@ -1,0 +1,74 @@
+{
+    "compañias": [
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Cosecha 77",
+            "fecha": "",
+            "lugar": "Gran Canaria, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Frida, ¿pies para que los quiero si tengo alas para volar?",
+            "fecha": "",
+            "lugar": "Madrid, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Micebrina",
+            "fecha": "",
+            "lugar": "Gran Canaria, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Vientre",
+            "fecha": "",
+            "lugar": "Lanzarote, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Mientras",
+            "fecha": "",
+            "lugar": "Tenerife, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Divino Desierto",
+            "fecha": "",
+            "lugar": "Lanzarote, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Conversaciones entre Plumas",
+            "fecha": "",
+            "lugar": "Tenerife, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Plúmaticas",
+            "fecha": "",
+            "lugar": "Lanzarote, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "La orilla de mi piel",
+            "fecha": "",
+            "lugar": "Tenerife, España"
+        },
+        {
+            "id": "51",
+            "nombre compañia": "El Jablero",
+            "nombre de la obra": "Raíces",
+            "fecha": "",
+            "lugar": "Lanzarote, España"
+        }
+    ]
+}
