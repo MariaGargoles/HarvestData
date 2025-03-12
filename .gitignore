@@ -1,0 +1,20 @@
+# 🚀 Ignorar dependencias de Node.js
+node_modules/
+package-lock.json
+
+
+
+
+# 🚀 Archivos de entorno
+.env
+*.env
+
+# 🚀 Ignorar migraciones en desarrollo 
+migrations/**/__pycache__/
+migrations/*
+
+
+# 🚀 Ignorar caché de scrapings y salidas JSON
+html_cache/
+json_output/
+event_links/
