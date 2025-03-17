@@ -2,7 +2,12 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-
+from django.core.management.base import BaseCommand
+from core.models import FuncionDescubierta
+ #from scripts.scraper import obtain_html, extract_relevant_text_and_links
+#from scripts.openai_mod import extract_events_from_html
+import json
+import os
 
 def main():
     """Run administrative tasks."""
