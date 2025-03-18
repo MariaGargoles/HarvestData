@@ -10,5 +10,6 @@ class FuncionDescubierta(models.Model):
     creado_en = models.DateTimeField(auto_now_add=True)
     actualizado_en = models.DateTimeField(auto_now=True)
 
+
     def __str__(self):
         return f"{self.titulo_produccion} por {self.nombre_compania}"
